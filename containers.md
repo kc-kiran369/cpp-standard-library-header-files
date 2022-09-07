@@ -1,12 +1,10 @@
 # C++ Standard Library Containers
 
 ## Sequence Containers
-<vector>,<deque>,<list><forward_list>
+\<vector\>,\<deque\>,\<list\>\<forward_list\>
 
 ## Associative Containers
-<map>,<set>
+\<map\>,\<set\>
 
 ## Container Adapters
-<queue>,<priority_queue>,<stack>
-
-##
+\<queue\>,\<priority_queue\>,\<stack\>
